@@ -25,7 +25,7 @@ Please reach out to [Nazrul](https://www.linkedin.com/in/nazislam/) or [Badrul](
 Please join our Slack community to interact with others and ask questions: https://cloudaeye-community.slack.com/ 
 
 ## REFERENCES
-| Episode Number | Date | Slides | Nodebooks | Video | 
-|----------------|------|--------|-----------|-------|
-| 01 | April 14, 2022 | [.pdf](https://github.com/CloudAEye/webinar-data-driven-enterprise/blob/main/episode-1/slides/ep01.pdf) | [.ipynb](https://github.com/CloudAEye/webinar-data-driven-enterprise/blob/main/episode-1/notebooks/ep01.ipynb) | [YouTube](https://www.youtube.com/watch?v=0V57MHUB5TU)
+| Episode Number | Date | Slides | Nodebooks | Video | Google Colab | 
+|----------------|------|--------|-----------|-------|--------------|
+| 01 | April 14, 2022 | [.pdf](https://github.com/CloudAEye/webinar-data-driven-enterprise/blob/main/episode-1/slides/ep01.pdf) | [.ipynb](https://github.com/CloudAEye/webinar-data-driven-enterprise/blob/main/episode-1/notebooks/ep01.ipynb) | [YouTube](https://www.youtube.com/watch?v=0V57MHUB5TU) | [Google Colab](https://colab.research.google.com/drive/15xzHZU9G2eiJIyhabFqPFIvAAWki68l1#scrollTo=LdRDuRlvnD7w)
 
