@@ -22,7 +22,7 @@ Please checkout [CloudAEye Observability](https://www.cloudaeye.com/) SaaS. We w
 Please reach out to [Nazrul](https://www.linkedin.com/in/nazislam/) or [Badrul](https://www.linkedin.com/in/bmsarwar/). 
 
 ## Slack community 
-Please join our Slack community to interact with others and ask questions: https://cloudaeye-community.slack.com/ 
+Please join our Slack community to interact with others and ask questions: https://cloudaeye-community.slack.com/ Ping [Nazrul](https://www.linkedin.com/in/nazislam/) for an invite. 
 
 ## REFERENCES
 | Episode Number | Date | Slides | Nodebooks | Video | Google Colab | 
