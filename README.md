@@ -28,4 +28,4 @@ Please join our Slack community to interact with others and ask questions: https
 | Episode Number | Date | Slides | Nodebooks | Video | Google Colab | 
 |----------------|------|--------|-----------|-------|--------------|
 | 01 | April 14, 2022 | [.pdf](https://github.com/CloudAEye/webinar-data-driven-enterprise/blob/main/episode-1/slides/ep01.pdf) | [.ipynb](https://github.com/CloudAEye/webinar-data-driven-enterprise/blob/main/episode-1/notebooks/ep01.ipynb) | [YouTube](https://www.youtube.com/watch?v=0V57MHUB5TU) | [Google Colab](https://colab.research.google.com/drive/15xzHZU9G2eiJIyhabFqPFIvAAWki68l1#scrollTo=LdRDuRlvnD7w)
-
+| 02 | April 28, 2022 |  | [.ipynb](https://github.com/CloudAEye/webinar-data-driven-enterprise/blob/main/episode-2/notebooks/ep02.ipynb) |  | [Google Colab](https://colab.research.google.com/drive/1jYC-MGtBK32_l9HT8dEQDzcdqMh8iTOu#scrollTo=6Q1hpQQghzEv) | 
